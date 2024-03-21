@@ -1,0 +1,15 @@
+/Users/williamlanhage/Desktop/yrgo/C#/week4/VendingApp/VendingApp/bin/Debug/net8.0/VendingApp
+/Users/williamlanhage/Desktop/yrgo/C#/week4/VendingApp/VendingApp/bin/Debug/net8.0/VendingApp.deps.json
+/Users/williamlanhage/Desktop/yrgo/C#/week4/VendingApp/VendingApp/bin/Debug/net8.0/VendingApp.runtimeconfig.json
+/Users/williamlanhage/Desktop/yrgo/C#/week4/VendingApp/VendingApp/bin/Debug/net8.0/VendingApp.dll
+/Users/williamlanhage/Desktop/yrgo/C#/week4/VendingApp/VendingApp/bin/Debug/net8.0/VendingApp.pdb
+/Users/williamlanhage/Desktop/yrgo/C#/week4/VendingApp/VendingApp/obj/Debug/net8.0/VendingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamlanhage/Desktop/yrgo/C#/week4/VendingApp/VendingApp/obj/Debug/net8.0/VendingApp.AssemblyInfoInputs.cache
+/Users/williamlanhage/Desktop/yrgo/C#/week4/VendingApp/VendingApp/obj/Debug/net8.0/VendingApp.AssemblyInfo.cs
+/Users/williamlanhage/Desktop/yrgo/C#/week4/VendingApp/VendingApp/obj/Debug/net8.0/VendingApp.csproj.CoreCompileInputs.cache
+/Users/williamlanhage/Desktop/yrgo/C#/week4/VendingApp/VendingApp/obj/Debug/net8.0/VendingApp.sourcelink.json
+/Users/williamlanhage/Desktop/yrgo/C#/week4/VendingApp/VendingApp/obj/Debug/net8.0/VendingApp.dll
+/Users/williamlanhage/Desktop/yrgo/C#/week4/VendingApp/VendingApp/obj/Debug/net8.0/refint/VendingApp.dll
+/Users/williamlanhage/Desktop/yrgo/C#/week4/VendingApp/VendingApp/obj/Debug/net8.0/VendingApp.pdb
+/Users/williamlanhage/Desktop/yrgo/C#/week4/VendingApp/VendingApp/obj/Debug/net8.0/VendingApp.genruntimeconfig.cache
+/Users/williamlanhage/Desktop/yrgo/C#/week4/VendingApp/VendingApp/obj/Debug/net8.0/ref/VendingApp.dll
